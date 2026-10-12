@@ -12,6 +12,8 @@ int main()
 	paid = (float)(feePaid * 100 / totalFee);
 	cout << "Semester: " << semester << "\nFee Paid: " << feePaid << "\nRemaining Fee: " << remainingFee << "\nPaid: " << paid << endl;
 
+	return 0;
+
 	//2ndYear is invalid, a variable name can't have a number at start
 	
 	//student_name is valid
